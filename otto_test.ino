@@ -1,5 +1,7 @@
-/*
-
+/* oTTo DIY is a great project that use a 3D pronted robot to teach coding to the kids.
+* You can see all the information about oTTo to the oTTo official page: https://www.ottodiy.com
+* 
+* With this code you can test the servos and the buzzer. Also you can mount all the servoc properly.
 */
 
 // include the Servo library
